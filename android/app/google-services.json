@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "1057901430323",
+    "project_id": "chat-64dd5",
+    "storage_bucket": "chat-64dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057901430323:android:89451e5065fe1998698546",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057901430323-o51doleqldo9suovba6okh9au1fc7kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzqzewMaV0lStdMSEupCZO0C8bGyOzc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057901430323-3uorsbuhmobff4gnum8p4tfi13c2qvm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057901430323-0av3hmd1v7rp4ik0f2mv7003fh3trqcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waleed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057901430323:android:a6fca136967b3afc698546",
+        "android_client_info": {
+          "package_name": "com.example.chating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057901430323-7rquu5t09saepq3edk1h0lmb5m1i2ptp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chating",
+            "certificate_hash": "9630fc357a881c03ac0790a49eb546807dfd1ec8"
+          }
+        },
+        {
+          "client_id": "1057901430323-o51doleqldo9suovba6okh9au1fc7kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzqzewMaV0lStdMSEupCZO0C8bGyOzc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057901430323-3uorsbuhmobff4gnum8p4tfi13c2qvm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057901430323-0av3hmd1v7rp4ik0f2mv7003fh3trqcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waleed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057901430323:android:df3320950873501b698546",
+        "android_client_info": {
+          "package_name": "com.example.waleed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057901430323-isaq3fcrctl28hg6in7hped0rq16g5do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waleed",
+            "certificate_hash": "9630fc357a881c03ac0790a49eb546807dfd1ec8"
+          }
+        },
+        {
+          "client_id": "1057901430323-o51doleqldo9suovba6okh9au1fc7kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzqzewMaV0lStdMSEupCZO0C8bGyOzc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057901430323-3uorsbuhmobff4gnum8p4tfi13c2qvm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057901430323-0av3hmd1v7rp4ik0f2mv7003fh3trqcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waleed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
